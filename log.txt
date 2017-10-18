@@ -1,0 +1,50 @@
+Epoch number 466
+Train on 8676 samples, validate on 2169 samples
+
+119s - loss: 1.7250 - mean_squared_error: 0.0066 - acc: 0.4922 - val_loss: 1.6892 - val_mean_squared_error: 0.0064 - val_acc: 0.5143
+
+} I can't be somethin to the streets
+We all got a b
+Ryde, Ruff Ryde, Ruff Ryde, Ruff Ryde) They gon' ne
+ggaz is gonna be a thing but I ain't going no probl
+& WHOT!
+Who these cats is all on the streets (WHAT)
+7 an to start a big and the dog is one of the stree
+
+Epoch number 467
+Train on 8676 samples, validate on 2169 samples
+
+118s - loss: 1.7203 - mean_squared_error: 0.0066 - acc: 0.4926 - val_loss: 1.6982 - val_mean_squared_error: 0.0065 - val_acc: 0.5138
+
+Playsn a guns and slack a nigga that you say you st
+.
+We each walk the path, that we've caosen.
+(sung)
+
+[all echool DMX)
+You know where I'm coming from
+Whe
+´ma play this prie
+Sigga niggaz is gonna be the bit
+00 pounds of pressure
+You gots to streets that shit
+
+Epoch number 468
+Train on 8676 samples, validate on 2169 samples
+
+117s - loss: nan - mean_squared_error: nan - acc: 0.0434 - val_loss: nan - val_mean_squared_error: nan - val_acc: 4.6104e-05
+F&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+7&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+b&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+w&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+V&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Epoch number 469
+Train on 8676 samples, validate on 2169 samples
+
+118s - loss: nan - mean_squared_error: nan - acc: 2.5357e-05 - val_loss: nan - val_mean_squared_error: nan - val_acc: 4.6104e-05
+n&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+4&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+>&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+D&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

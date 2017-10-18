@@ -1,0 +1,1 @@
+{"mse": [0.01181077737225509], "nodes2": 200, "learning_rate": 0.01, "nodes3": 100, "nodes1": 200, "val_mse": [0.01029571678760814], "dropout2": 0.3, "dropout3": 0.3, "epochs": 1000, "val_accuracy": [0.41678192622104293], "batch_size": 16, "accuracy": [0.3207353622669336], "dropout1": 0.4}
